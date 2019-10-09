@@ -21,6 +21,7 @@ namespace APIPayment.Controllers
 
         #endregion
 
+
         #region Ctor        
 
         public PaymentDetailsController(PaymentDetailContext context)
@@ -29,6 +30,7 @@ namespace APIPayment.Controllers
         }
 
         #endregion
+
 
         #region End Points GET/PUT/POST/DELETE/
 

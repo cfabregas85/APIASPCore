@@ -12950,11 +12950,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos\\Desktop\\APICoreAngular\\APIPayment\\APIPayment\\APIPayment.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos\\source\\repos\\APIASPCore\\APIPayment.csproj",
       "projectName": "APIPayment",
-      "projectPath": "C:\\Users\\Carlos\\Desktop\\APICoreAngular\\APIPayment\\APIPayment\\APIPayment.csproj",
+      "projectPath": "C:\\Users\\Carlos\\source\\repos\\APIASPCore\\APIPayment.csproj",
       "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos\\Desktop\\APICoreAngular\\APIPayment\\APIPayment\\obj\\",
+      "outputPath": "C:\\Users\\Carlos\\source\\repos\\APIASPCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
