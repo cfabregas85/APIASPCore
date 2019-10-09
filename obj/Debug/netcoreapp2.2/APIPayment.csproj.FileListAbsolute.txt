@@ -1,0 +1,27 @@
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\bin\Debug\netcoreapp2.2\APIPayment.deps.json
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\bin\Debug\netcoreapp2.2\APIPayment.runtimeconfig.json
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\bin\Debug\netcoreapp2.2\APIPayment.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\bin\Debug\netcoreapp2.2\APIPayment.dll
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.RazorAssemblyInfo.cache
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.RazorAssemblyInfo.cs
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.RazorTargetAssemblyInfo.cache
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\bin\Debug\netcoreapp2.2\APIPayment.pdb
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.dll
+C:\Users\Carlos\Desktop\API Asp.Net Core\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.pdb
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\bin\Debug\netcoreapp2.2\APIPayment.deps.json
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\bin\Debug\netcoreapp2.2\APIPayment.runtimeconfig.json
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\bin\Debug\netcoreapp2.2\APIPayment.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\bin\Debug\netcoreapp2.2\APIPayment.dll
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\bin\Debug\netcoreapp2.2\APIPayment.pdb
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.RazorAssemblyInfo.cache
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.RazorAssemblyInfo.cs
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.RazorTargetAssemblyInfo.cache
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.dll
+C:\Users\Carlos\Desktop\APICoreAngular\APIPayment\APIPayment\obj\Debug\netcoreapp2.2\APIPayment.pdb
